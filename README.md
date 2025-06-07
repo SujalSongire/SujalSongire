@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/pixel_room.png" width="80%" alt="Pixel Art Workspace" />
-</p>
+![image](https://github.com/user-attachments/assets/2470eef0-adf3-4a19-9dd3-f1a393af70c6)
 
 
 <h1 align="center">Hi 👋, I'm Sujal Songire</h1>
