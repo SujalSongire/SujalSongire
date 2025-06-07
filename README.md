@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/main/pixel_room.png" width="80%" alt="Pixel Art Workspace" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Sujal Songire</h1>
 <h3 align="center">A passionate Web developer and data analyst from India</h3>
 
