@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2470eef0-adf3-4a19-9dd3-f1a393af70c6)
+![gif](https://github.com/user-attachments/assets/2470eef0-adf3-4a19-9dd3-f1a393af70c6)
 
 
 <h1 align="center">Hi 👋, I'm Sujal Songire</h1>
