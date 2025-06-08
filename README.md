@@ -1,4 +1,4 @@
-
+![Romario GIF](./romario.gif)
 
 
 <h1 align="center">Hi 👋, I'm Sujal Songire</h1>
