@@ -1,4 +1,4 @@
-https://images.app.goo.gl/LH4mTXLoMB39REtSA
+
 
 
 <h1 align="center">Hi 👋, I'm Sujal Songire</h1>
